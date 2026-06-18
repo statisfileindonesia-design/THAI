@@ -2,7 +2,7 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "THAI",
-  "total": 2,
+  "total": 3,
   "data": [
     {
       "NAMAE": "XFpEFFdLXFxcUQ==",
@@ -15,8 +15,14 @@
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAVIWXQQdAklcZXNWYGJqXxpbSV4=",
       "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVVAWWAQdcVhFYFAOBWdqXxpbSV4=",
       "LINK": "AwEDBgUBDgAHBwgMAgw="
+    },
+    {
+      "NAMAE": "Zl1VFHxMS1FXR1VG",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfV1IWD1AdWwNyZFVYb2NqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDQQWXVQdVgJMdENUb1VqXxpbSV4=",
+      "LINK": "AwEDBgkODgEAAwUABgw="
     }
   ],
-  "lastSync": "2026-06-17T16:25:46.469Z",
+  "lastSync": "2026-06-18T16:57:44.753Z",
   "note": ""
 }
